@@ -40,10 +40,10 @@ We can immediately make some observations.
 
 ## Major
 
-![](major-scales.png)
-
 Notice how the dorian mode is symmetrical. Notice, too, that the scale
 contains only one tritone.
+
+![](major-scales.png)
 
 ## Minor
 
@@ -60,10 +60,10 @@ After a moment it becomes clear that this is just a diminished and major
 
 ## Diminished
 
-![](dim-scales.png)
-
 Note how clear it is from the symmetries of the graph that there can be
 only 3 distinct diminished scales.
+
+![](dim-scales.png)
 
 ## Alt
 
