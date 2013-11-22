@@ -13,7 +13,7 @@ harmonic theory. Advantages:
   voicings either. Focus on the theory.
 
 - No enharmonics. The charts omit notes with alternate spellings, which
-  makes reading and thinking about them less of a mathematical exercise.
+  takes some of the mathematical exercise out of music theory.
 
 - Simple compound intervals. Adding intervals together visually is
   trivial.
