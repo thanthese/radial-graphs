@@ -48,7 +48,8 @@ contains only one tritone.
 ## Minor
 
 The jazz minor. Like the major scale, but with a flatted 3rd. Note that
-the scale is basically just two diminished triads put together.
+the scale is basically just two diminished triads put together (and
+that, as such, it has 2 tritones).
 
 ![](minor-scales.png)
 
