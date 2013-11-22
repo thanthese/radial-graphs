@@ -50,8 +50,8 @@ The jazz minor. Like the major scale, but with a flatted 3rd.
 
 ## Bebop
 
-After a moment, it becomes clear that this is just a diminished and 7th
-chord added together. Look for the diminished chord's cross.
+After a moment it becomes clear that this is just a diminished and major
+6th chord added together. Look for the diminished chord's cross.
 
 ![](bebop-scales.png)
 
@@ -61,6 +61,13 @@ chord added together. Look for the diminished chord's cross.
 
 Note how clear it is from the symmetries of the graph that there can be
 only 3 distinct diminished scales.
+
+## Alt
+
+![](alt-7ths.png)
+
+Note that the scale is basically just two diminished triads put
+together.
 
 # Triads
 
@@ -86,10 +93,6 @@ only 3 distinct diminished scales.
 
 ![](dominant-7ths.png)
 
-## Alt
-
-![](alt-7ths.png)
-
 ## Diminished
 
 ![](dim-7ths.png)
@@ -101,5 +104,6 @@ only 3 distinct diminished scales.
 # Further work
 
 It'd be neat to see this animated or interactive in some way. ... But so
-far I haven't figured out an interesting way for that to work. If you
+far I haven't figured out an interesting way for that to work. I think
+there's the greatest opportunity in visualizing progressions. If you
 have ideas, let me know.
