@@ -47,7 +47,8 @@ contains only one tritone.
 
 ## Minor
 
-The jazz minor. Like the major scale, but with a flatted 3rd.
+The jazz minor. Like the major scale, but with a flatted 3rd. Note that
+the scale is basically just two diminished triads put together.
 
 ![](minor-scales.png)
 
@@ -64,13 +65,6 @@ Note how clear it is from the symmetries of the graph that there can be
 only 3 distinct diminished scales.
 
 ![](dim-scales.png)
-
-## Alt
-
-![](alt-7ths.png)
-
-Note that the scale is basically just two diminished triads put
-together.
 
 # Triads
 
