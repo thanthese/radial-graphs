@@ -39,11 +39,12 @@ We can immediately make some observations.
 
 ![](major-scales.png)
 
-Notice how the dorian mode is symmetrical.
+Notice how the dorian mode is symmetrical. Notice, too, that the scale
+contains only one tritone.
 
 ## Minor
 
-I mean the jazz minor. It has only a flatted 3rd.
+The jazz minor. Like the major scale, but with a flatted 3rd.
 
 ![](minor-scales.png)
 
