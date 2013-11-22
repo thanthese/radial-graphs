@@ -12,6 +12,9 @@ harmonic theory. Advantages:
 - Ignore inversions. There's no top and bottom to worry about, and no
   voicings either. Focus on the theory.
 
+- Easy to read compound intervals. Adding intervals together visually is
+  trivial.
+
 So far as I can google I think I invented them. If you know different
 please drop me a line.
 
