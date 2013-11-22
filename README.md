@@ -6,13 +6,17 @@ harmonic theory. Advantages:
 - Uniform spacing. Unlike on a musical staff, equal distances mean equal
   intervals.
 
-- Make intervals obvious. For example, a straight line always means a
+- Obvious intervals. For example, a straight line always means a
   tritone.
 
-- Ignore inversions. There's no top and bottom to worry about, and no
+- No inversions. There's no top and bottom to worry about, and no
   voicings either. Focus on the theory.
 
-- Easy to read compound intervals. Adding intervals together visually is
+- No enharmonics. The charts are written without the notes with
+  alternate spellings, which makes reading and thinking about them less
+  of a mathematical exercise.
+
+- Simple compound intervals. Adding intervals together visually is
   trivial.
 
 So far as I can google I think I invented them. If you know different
