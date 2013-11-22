@@ -135,32 +135,34 @@ var scale = {
     majorTriad : [1,0,0,0,1,0,0,1,0,0,0,0],
     minorTriad : [1,0,0,1,0,0,0,1,0,0,0,0],
 
-    // 7ths  :  C   D   E F   G   A   B
-    major7th : [1,0,0,0,1,0,0,1,0,0,0,1],
-    minor7th : [1,0,0,1,0,0,0,1,0,0,1,0],
-    dim7     : [1,0,0,1,0,0,1,0,0,1,0,0],
-    dominant : [1,0,0,0,1,0,0,1,0,0,1,0],
-    alt      : [1,1,0,1,1,0,1,0,1,0,1,0],
+    // 7ths    :  C   D   E F   G   A   B
+    major7th   : [1,0,0,0,1,0,0,1,0,0,0,1],
+    minor7th   : [1,0,0,1,0,0,0,1,0,0,1,0],
+    dim7       : [1,0,0,1,0,0,1,0,0,1,0,0],
+    dominant   : [1,0,0,0,1,0,0,1,0,0,1,0],
+    dominant9b : [1,1,0,0,1,0,0,1,0,0,1,0],
+    alt        : [1,1,0,1,1,0,1,0,1,0,1,0],
 }
 
 var p = new Position();
 
 // command + shift + 4 to take screenshot
 
-// factors of 12
-drawGraph(scale.n1, "chromatic scale (1)", p.next());
-drawGraph(scale.n2, "wholetone scale (2)", p.next());
-drawGraph(scale.n3, "dim7 chord (3)", p.next());
-p.break();
-drawGraph(scale.n4, "aug chord (4)", p.next());
-drawGraph(scale.n6, "tritone interaval (6)", p.next());
-drawGraph(scale.n12, "single note (12)", p.next());
-p.break();
+// // factors of 12
+// drawGraph(scale.n1, "chromatic scale (1)", p.next());
+// drawGraph(scale.n2, "wholetone scale (2)", p.next());
+// drawGraph(scale.n3, "dim7 chord (3)", p.next());
+// p.break();
+// drawGraph(scale.n4, "aug chord (4)", p.next());
+// drawGraph(scale.n6, "tritone interaval (6)", p.next());
+// drawGraph(scale.n12, "single note (12)", p.next());
+// p.break();
 
 // scales
 // drawN(12, "majorScale", "major scale");
 // drawN(12, "minorScale", "minor scale");
 // drawN(12, "bebopScale", "bebop scale");
+// drawN(12, "alt", "alt");
 // drawN(3, "dimScale", "dim scale");
 
 // triads
@@ -171,7 +173,7 @@ p.break();
 // drawN(12, "major7th", "major 7th");
 // drawN(12, "minor7th", "minor 7th");
 // drawN(12, "dominant", "dominant 7th");
-// drawN(12, "alt", "alt");
+// drawN(12, "dominant9b", "7th, b9");
 // drawN(3, "dim7", "dim7");
 
 // ii-V7-I progression

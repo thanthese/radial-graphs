@@ -91,6 +91,12 @@ only 3 distinct diminished scales.
 
 ![](dominant-7ths.png)
 
+## Dominant 7, b9
+
+Notice how obviously these relate to diminished 7th chords.
+
+![](dom7b9.png)
+
 ## Diminished
 
 ![](dim-7ths.png)
