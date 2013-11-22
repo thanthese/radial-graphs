@@ -12,9 +12,8 @@ harmonic theory. Advantages:
 - No inversions. There's no top and bottom to worry about, and no
   voicings either. Focus on the theory.
 
-- No enharmonics. The charts are written without the notes with
-  alternate spellings, which makes reading and thinking about them less
-  of a mathematical exercise.
+- No enharmonics. The charts omit notes with alternate spellings, which
+  makes reading and thinking about them less of a mathematical exercise.
 
 - Simple compound intervals. Adding intervals together visually is
   trivial.
